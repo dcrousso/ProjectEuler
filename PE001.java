@@ -1,13 +1,11 @@
 // https://projecteuler.net/problem=1
 public class PE001 {
 	public static void main(String[] args){
-		int sum = 0, i = 0;
-		while(3 * Math.pow(3, i) < 1000) {
-			if(5 * Math.pow(5, i) < 1000) {
-				sum += 5 * Math.pow(5, i);
+		int sum = 0;
+		for(int i = 0; i < 1000; i++) {
+			if(i % 3 == 0 || i % 5 == 0) {
+				sum += i;
 			}
-			sum += 3 * Math.pow(3, i);
-			i++;
 		}
 		System.out.println(sum);
 	}

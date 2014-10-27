@@ -1,6 +1,6 @@
+// https://projecteuler.net/problem=20
 import java.math.BigInteger;
 
-// https://projecteuler.net/problem=20
 public class PE020 {
 	public static void main(String[] args){
 		BigInteger num = factorial(100);

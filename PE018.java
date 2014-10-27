@@ -23,6 +23,6 @@ public class PE018 {
 				nums[i][j] += Math.max(nums[i + 1][j], nums[i + 1][j + 1]);
 			}
 		}
-		System.out.println(Integer.toString(nums[0][0]));
+		System.out.println(nums[0][0]);
 	}
 }

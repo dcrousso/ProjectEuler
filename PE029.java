@@ -3,7 +3,6 @@ import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.Set;
 
-
 public final class PE029 {
 	public static void main(String[] args) {
 		Set<BigInteger> distinctPowers = new HashSet<BigInteger>();

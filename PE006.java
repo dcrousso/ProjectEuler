@@ -2,7 +2,7 @@
 public class PE006 {
 	public static void main(String[] args){
 		int sumSquare = 0, squareSum = 0;
-		for(int i = 1; i < 100; i++) {
+		for(int i = 1; i <= 100; i++) {
 			sumSquare += i * i;
 			squareSum += i;
 		}

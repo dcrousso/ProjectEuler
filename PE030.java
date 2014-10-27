@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=30
-
 public class PE030 {
 	public static void main(String[] args){
 		int total = 0;

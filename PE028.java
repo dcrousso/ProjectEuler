@@ -1,5 +1,4 @@
 // https://projecteuler.net/problem=28
-
 public class PE028 {
 	public static void main(String[] args){
 		int count = 0, left = 1, right = 1;
