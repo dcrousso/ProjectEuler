@@ -109,6 +109,6 @@ public class PE013 {
 		for(int i = 0; i < nums.length; i++){ 
 			sum = sum.add(nums[i]);
 		}
-		System.out.println(sum);
+		System.out.println(sum.toString().substring(0, 10));
 	}
 }
