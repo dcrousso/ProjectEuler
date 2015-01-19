@@ -115,3 +115,4 @@ Problem 137 | 1120149658760 | [PE137.java](https://github.com/dcrousso/ProjectEu
 Problem 138 | 1118049290473932 | [PE138.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE138.java)
 Problem 139 | 10057761 | [PE139.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE139.java)
 Problem 145 | 608720 | [PE145.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE145.java)
+Problem 173 | 1572729 | [PE173.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE173.java)
