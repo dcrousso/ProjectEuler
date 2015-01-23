@@ -110,6 +110,7 @@ Problem 127 | 18407904 | [PE127.java](https://github.com/dcrousso/ProjectEuler/b
 Problem 129 | 1000023 | [PE129.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE129.java)
 Problem 130 | 149253 | [PE130.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE130.java)
 Problem 131 | 173 | [PE131.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE131.java)
+Problem 132 | 843296 | [PE132.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE132.java)
 Problem 135 | 4989 | [PE135.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE135.java)
 Problem 136 | 2544559 | [PE136.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE136.java)
 Problem 137 | 1120149658760 | [PE137.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE137.java)
