@@ -127,3 +127,4 @@ Problem 188 | 95962097 | [PE188.java](https://github.com/dcrousso/ProjectEuler/b
 Problem 197 | 1.710637717 | [PE197.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE197.java)
 Problem 203 | 34029210557338 | [PE203.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE203.java)
 Problem 211 | 1922364685 | [PE211.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE211.java)
+Problem 214 | 1677366278943 | [PE214.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE214.java)
