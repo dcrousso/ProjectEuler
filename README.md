@@ -130,3 +130,4 @@ Problem 211 | 1922364685 | [PE211.java](https://github.com/dcrousso/ProjectEuler
 Problem 214 | 1677366278943 | [PE214.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE214.java)
 Problem 225 | 2009 | [PE225.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE225.java)
 Problem 231 | 7526965179680 | [PE231.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE231.java)
+Problem 243 | 892371480 | [PE243.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE243.java)
