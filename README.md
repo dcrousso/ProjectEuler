@@ -101,6 +101,7 @@ Problem 104 | 329468 | [PE104.java](https://github.com/dcrousso/ProjectEuler/blo
 Problem 108 | 180180 | [PE108.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE108.java)
 Problem 109 | 38182 | [PE109.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE109.java)
 Problem 112 | 1587000 | [PE112.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE112.java)
+Problem 113 | 51161058134250 | [PE113.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE113.java)
 Problem 119 | 248155780267521 | [PE119.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE119.java)
 Problem 120 | 333082500 | [PE120.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE120.java)
 Problem 123 | 21035 | [PE123.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE123.java)
