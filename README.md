@@ -113,6 +113,7 @@ Problem 130 | 149253 | [PE130.java](https://github.com/dcrousso/ProjectEuler/blo
 Problem 131 | 173 | [PE131.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE131.java)
 Problem 132 | 843296 | [PE132.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE132.java)
 Problem 133 | 453647705 | [PE133.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE133.java)
+Problem 134 | 18613426663617118 | [PE134.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE134.java)
 Problem 135 | 4989 | [PE135.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE135.java)
 Problem 136 | 2544559 | [PE136.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE136.java)
 Problem 137 | 1120149658760 | [PE137.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE137.java)
