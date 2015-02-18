@@ -121,6 +121,7 @@ Problem 138 | 1118049290473932 | [PE138.java](https://github.com/dcrousso/Projec
 Problem 139 | 10057761 | [PE139.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE139.java)
 Problem 142 | 1006193 | [PE142.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE142.java)
 Problem 145 | 608720 | [PE145.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE145.java)
+Problem 146 | 676333270 | [PE146.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE146.java)
 Problem 173 | 1572729 | [PE173.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE173.java)
 Problem 174 | 209566 | [PE174.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE174.java)
 Problem 179 | 986262 | [PE179.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE179.java)
