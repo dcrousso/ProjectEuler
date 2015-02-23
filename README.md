@@ -137,3 +137,4 @@ Problem 243 | 892371480 | [PE243.java](https://github.com/dcrousso/ProjectEuler/
 Problem 249 | 9275262564250418 | [PE249.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE249.java)
 Problem 301 | 2178309 | [PE301.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE301.java)
 Problem 323 | 6.3551758451 | [PE323.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE323.java)
+Problem 357 | 1739023853137 | [PE357.java](https://github.com/dcrousso/ProjectEuler/blob/master/PE357.java)
